@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Chaouki-Tiouassiouine/Chaouki-Tiouassiouine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👷 I'm currently working on an Azure assignment at Rabobank 
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning for AZ-400
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 You can find me at
+
+- [LinkedIn](https://www.linkedin.com/in/chaouki-tiouassiouine/)
+- [Instagram](https://www.instagram.com/chaouki.t/)
+
+
+
+<img src="https://werkenbijopencirclesolutions.nl/wp-content/uploads/2018/06/rabobank-logo.png" width = "200" /><img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width = "100"/>
+
+
