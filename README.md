@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Chaouki Tiouassiouine 👋
 
 ### 👷 I'm currently working on an Azure assignment at Rabobank 
 
