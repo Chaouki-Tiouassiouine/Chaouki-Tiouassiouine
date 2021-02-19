@@ -13,10 +13,3 @@
 
 
 
-
-
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="nl_NL" data-type="horizontal" data-theme="light" data-vanity="chaouki-tiouassiouine"><a class="LI-simple-link" href='https://nl.linkedin.com/in/chaouki-tiouassiouine?trk=profile-badge'>Chaouki Tiouassiouine</a></div>
-
-
