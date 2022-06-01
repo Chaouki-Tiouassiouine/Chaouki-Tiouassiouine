@@ -1,6 +1,6 @@
-### Hi there, my name is Chaouki Tiouassiouine 👋
+### 👋 Hi there, my name is Chaouki Tiouassiouine 
 
-### 👷 I'm currently working on an Azure assignment at Rabobank 
+### 👷 I'm currently working on an Azure assignment at Shell 
 
 ### 🌱 Most recent certificate obtained KCNA - LINUX FOUNDATION
 
