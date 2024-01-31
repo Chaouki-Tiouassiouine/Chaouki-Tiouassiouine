@@ -7,5 +7,4 @@
 ### 🔭 You can find me on
 
 - [LinkedIn](https://www.linkedin.com/in/chaouki-tiouassiouine/)
-- [Instagram](https://www.instagram.com/chaouki.t/)
 - [Solid Force](https://www.solidforce.nl)
