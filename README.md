@@ -1,8 +1,8 @@
 ### 👋 Hi there, my name is Chaouki Tiouassiouine 
 
-### 👷 I'm currently working as a DEVOPS engineer on an Azure DevOps assignment at Shell 
+### 👷 Looking for a new DevOps assignment per the 14th of April
 
-### 🌱 Most recent certificate obtained CKA - LINUX FOUNDATION
+### 🌱 Most recent certificate obtained CKAD - LINUX FOUNDATION
 
 ### 🔭 You can find me on
 
